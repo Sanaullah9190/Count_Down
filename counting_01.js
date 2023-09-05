@@ -1,5 +1,5 @@
 
-let endDate = "25 August 2023 6:16 PM"
+let endDate = "08 september 2023 6:16 PM"
 
 document.getElementById("end-date").innerHTML=endDate
 
